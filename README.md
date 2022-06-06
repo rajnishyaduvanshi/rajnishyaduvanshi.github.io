@@ -1,3 +1,3 @@
 ## https://rajnishyaduvanshi.github.io
-personal website
 # only for mobile
+## A Better Suitable homepage for mobile browser. 
